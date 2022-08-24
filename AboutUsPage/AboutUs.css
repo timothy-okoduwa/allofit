@@ -1,0 +1,370 @@
+.buttonn{
+    outline:none ;
+    border: none;
+    height: 40px;
+    padding: 8px;
+    background-color: #1DB954;
+    color: white;
+    border-radius: 5px;
+      width: 180px;
+       text-align: center;
+       display: flex;
+       justify-content: center;
+   
+  }
+  .CR{
+     
+      width: 25%;
+  }
+  .Sign{
+  
+      width: 55px;
+      margin-left: 20px;
+  }
+  .Sign2{
+    
+      width: 120px;
+      padding-left: 20px;}
+  
+.HEading{
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 48px;
+
+}  
+.long{
+
+    font-family: 'Noto Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 22px;
+color: #828282;
+}
+
+.two{
+    font-family: 'poppins';
+
+font-weight: 400;
+font-size: 14px;
+
+color: #828282;
+
+}
+.time{
+    font-family: 'Noto Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 22px;
+color: #828282;
+
+}
+left{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    }
+    .left img{
+    
+    
+    width: 150px;
+    display: flex;
+    justify-content: center;
+    
+    }
+    left{
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: flex-start;
+        }
+        .left img{
+        
+        
+        width: 150px;
+        display: flex;
+        justify-content: center;
+        
+        }
+        .header{
+            font-family: 'Fira Sans';
+            font-style: normal;
+            font-weight: 600;
+            font-size: 64px;
+            line-height: 77px;
+       }
+       .details{
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 20px;
+        line-height: 170%;
+    }
+    .imageHolder{
+        width: 200px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        /* height: 400px; */
+    
+    }
+    .image2{
+        height: 430px;
+        display: flex;
+        justify-content: center;
+        object-fit: contain;
+        
+        }
+        .Anywhere{
+ 
+            font-family: 'Fira Sans';
+            font-style: normal;
+            font-weight: 600;
+            font-size: 64px;
+            line-height: 77px;
+         
+            
+            text-align: center;
+        }
+        .Anywhere2{
+            font-family: 'Fira Sans';
+            font-style: normal;
+            font-weight: 600;
+            font-size: 64px;
+            line-height: 77px;
+            text-align: center;
+        }
+        .Start{
+            display: flex;
+            justify-content: center;
+          
+           }
+           .Sstat{
+               display: flex;
+               justify-content: space-around;
+            margin-left: 900px;
+               width: 75%;
+           }
+           .Each-icon{
+               display: flex;
+               flex-direction: column;
+               align-items: center;
+               /* height: 220px; */
+               background: #ffffff;
+               border-radius: 10px;
+               
+           }
+         .iicons{
+            height: 64px;
+            margin-top: -25px;
+         }
+         .HHead{
+            font-family: 'Poppins';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 24px;
+            line-height: 36px;
+            text-align: center;
+            margin-top: 55px;
+         }
+         .ssub{
+font-family: 'poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+text-align: center;
+line-height: 22px;
+margin-top: 10px;
+padding-bottom: 65px;
+         }
+
+  .why{
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 22px;
+    text-align: center;
+  }       
+  .why2{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 170%;
+    text-align: center;
+  }       
+  .centerr{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.call{
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 14px;
+}
+.ecllipse{
+    display: flex;
+    flex-direction: column;
+ 
+ 
+}
+.Mage1{
+    margin: 10px;
+    height: 120px;
+  
+}
+
+.Mage4{
+    margin: 10px;
+    height: 120px;
+ 
+}
+
+.teach{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 160%;
+}
+.sign{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+}
+.Form{
+    Width: 416px;
+    Height:
+    auto;
+display: flex;
+align-items: center;
+flex-wrap: wrap;
+justify-content: center;
+border-radius: 5px;
+background-color: #ffffff;
+padding: 5px;
+
+}
+.Form input{
+border: none;
+outline: none;
+width: 247px;
+height: 40px;
+font-family: 'poppins';
+font-weight: 400;
+font-size: 14px;
+margin: 5px;
+}
+.Form button{
+color: white;
+outline: none;
+border: none;
+height: 40px;
+width: 120px;
+/* margin: 5px; */
+background: #1D2A3B;
+border-radius: 5px;
+
+
+}
+
+.Resources{
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 23px;
+    text-align: center;
+    cursor: pointer;
+        }
+        .Resources2{
+     font-family: 'Fira Sans';
+    font-weight: 400;
+    font-size: 24px;
+    
+        }
+        .Subs{
+            font-family: 'Poppins';
+    cursor: pointer;
+    font-size: px;
+    text-align: center;
+        }
+        .Terms{
+    font-family: 'Poppins';
+    font-weight: 400;
+    display: flex;
+    justify-content: space-around;
+    width: 300px;
+    cursor: pointer;
+        }
+        .Termss {
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 15px;
+    
+    cursor: pointer;
+        }
+        .Termss span{
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 14px;
+    width: 220px;
+    color: #1DB954;
+    cursor: pointer;
+        }
+
+ .Roller{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    width: 70%;
+    margin-left: 10%;
+ }  
+
+
+
+
+
+
+
+ .brother{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+ }
+ .all{
+    display: flex;
+flex-direction: column;
+margin-bottom: 20px;
+
+}
+ .all span{
+    display: flex;
+flex-direction: column;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+
+
+
+}
+
+.Download{
+    font-family: 'Fira Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 28px;
+line-height: 38px;
+
+
+}

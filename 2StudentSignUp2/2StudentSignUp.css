@@ -1,0 +1,90 @@
+.Center{
+    display: flex;
+}
+.left{
+    width: 50%;
+    background-color:#F4F9FF;
+    height: 130vh;
+
+}
+.Right{
+    background-color: #1D2A3B;
+    width: 50%;
+    height: 130vh;
+}
+.holder{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
+.image{
+    height: 360px;
+    object-fit: cover;
+
+}
+.imageHolder{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.Signup{
+    font-family: 'Fira Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 48px;
+color: white;
+}
+.or{
+    width: 100%;
+color: white;
+    text-align: center;
+}
+.contain{
+    width: 80%;
+margin-left: 40px;
+}
+.butt{
+    width: 100%;
+}
+.Labell{
+    font-family: 'Noto Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 160%;
+}
+.Checkk{
+    font-family: 'Noto Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 160%;
+
+}
+.dashed {
+    width: 100px;
+    height: 1px;
+    background-color: #1DB954;
+    background-image: url("data:image/svg+xml,%3csvg width='100%25' height='100%25' xmlns='http://www.w3.org/2000/svg'%3e%3crect width='100%25' height='100%25' fill='none' rx='6' ry='6' stroke='%23333' stroke-width='3' stroke-dasharray='6%2c 14' stroke-dashoffset='69' stroke-linecap='square'/%3e%3c/svg%3e");
+    border-radius: 6px;
+    margin-top: 13px;
+  }
+  .crumb{
+    background-color: #1DB954;
+    width: 30px;
+    text-align: center;
+    height: 28px;
+    border-radius: 15px;
+    color: rgb(255, 255, 255);
+  }
+  .crumb2{
+    background-color: #1DB954;
+    color: rgb(255, 255, 255);
+    width: 30px;
+    text-align: center;
+    height: 28px;
+    border-radius: 15px;
+  }

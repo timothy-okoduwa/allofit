@@ -1,0 +1,66 @@
+.Center{
+    display: flex;
+}
+.left{
+    width: 50%;
+    background-color:#F4F9FF;
+    height: 120vh;
+
+}
+.Right{
+    background-color: #1D2A3B;
+    width: 50%;
+    height: 120vh;
+}
+.holder{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
+.image{
+    height: 360px;
+    object-fit: cover;
+
+}
+.imageHolder{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.Signup{
+    font-family: 'Fira Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 48px;
+color: white;
+}
+.or{
+    width: 100%;
+color: white;
+    text-align: center;
+}
+.contain{
+    width: 80%;
+margin-left: 40px;
+}
+.butt{
+    width: 100%;
+}
+.Labell{
+    font-family: 'Noto Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 160%;
+}
+.Checkk{
+    font-family: 'Noto Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 160%;
+
+}

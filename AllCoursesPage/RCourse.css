@@ -1,0 +1,164 @@
+@media screen and (max-width:991px){
+    .buttonn{
+        outline:none ;
+        border: none;
+        height: 40px;
+        padding: 8px;
+        background-color: #1DB954;   
+        color: white;
+        border-radius: 5px;
+          width: 250px;
+           text-align: center;
+           display: flex;
+           justify-content: center;
+          margin-right: 60px;
+      }
+      .CR{
+        /* background-color: rgb(42, 10, 10); */
+      width: 100%;
+    }
+
+    .Sign{
+
+        width: 160px;
+        /* margin-left: 20px; */
+      
+    }
+    .Sign2{
+      
+        width: 160px;
+        padding-right:60px;
+    }
+}
+@media screen and (max-width:375px){
+  .Sign2{
+      /* background-color: aqua; */
+    width: 290px;
+    margin-right:900px;
+}
+     .buttonn{
+        outline:none ;
+        border: none;
+        height: 40px;
+        padding: 8px;
+        background-color: #1DB954;   
+        color: white;
+        border-radius: 5px;
+          width: 150px;
+           text-align: center;
+           display: flex;
+           justify-content: center;
+          margin-left: 90px;
+      }
+  
+}
+@media screen and (max-width:768px){
+  .Instyle{
+    width: 290px;
+    border-radius: 40px;
+    height: 49px;
+}
+.LIne{
+  display: none; 
+ }
+
+.sub2{
+
+  width: 70%;
+  display: flex;
+  justify-content: center;
+
+
+ }
+.ecllipse{
+  display: none;
+}
+
+
+ .search{
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  display: flex;
+  text-align: center;
+justify-content: center;
+}
+.DRop{
+  display: flex;
+  justify-content: center;
+}
+
+}
+@media screen and (max-width:1041px){
+  .text2{
+    padding-top: 30px;
+  }
+}
+@media screen and (max-width:320px){
+  .Form input{
+      border: none;
+      outline: none;
+      width: 200px;
+      height: 40px;
+      font-family: 'poppins';
+      font-weight: 400;
+      font-size: 14px;
+      margin: 5px;
+    
+      }
+
+   
+ 
+      .Mage1{
+        display: none;
+       }
+       .Mage4{
+        display: none;
+       }
+ 
+}
+@media screen and (max-width:425px){
+  .Resources{
+    padding-right: 150px;
+    /* background-color: #1DB954; */
+  }
+}
+
+@media screen and (max-width:2825px){
+  .Scond{
+    display: flex;
+    padding: 0 630px 0 630px;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    }
+    
+}
+@media screen and (max-width:1440px){
+  .Scond{
+    display: flex;
+    padding: 0 80px 0 80px;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    }
+    
+}
+@media screen and (max-width:425px){
+  .Scond{
+    display: flex;
+    padding: 0 15px 0 15px;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    }
+    
+}
+@media screen and (max-width:1024px){
+  .Scond{
+    display: flex;
+    padding: 0 48px 0 48px;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    }
+    
+}

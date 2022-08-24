@@ -1,0 +1,92 @@
+@media screen and (max-width:991px){
+    .buttonn{
+        outline:none ;
+        border: none;
+        height: 40px;
+        padding: 8px;
+        background-color: #1DB954;   
+        color: white;
+        border-radius: 5px;
+          width: 250px;
+           text-align: center;
+           display: flex;
+           justify-content: center;
+          margin-right: 60px;
+      }
+      .CR{
+        /* background-color: rgb(42, 10, 10); */
+      width: 100%;
+    }
+
+    .Sign{
+
+        width: 160px;
+        /* margin-left: 20px; */
+      
+    }
+    .Sign2{
+      
+        width: 160px;
+        padding-right:60px;
+    }
+}
+@media screen and (max-width:375px){
+  .Sign2{
+      /* background-color: aqua; */
+    width: 290px;
+    margin-right:900px;
+}
+
+     .buttonn{
+        outline:none ;
+        border: none;
+        height: 40px;
+        padding: 8px;
+        background-color: #1DB954;   
+        color: white;
+        border-radius: 5px;
+          width: 150px;
+           text-align: center;
+           display: flex;
+           justify-content: center;
+          margin-left: 90px;
+      }
+}
+@media screen and (max-width:768px){
+  .image2{
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    object-fit: contain;
+   
+    }
+    .LIne{
+     display: none; 
+    }
+  .image3{
+    height: 350px;
+    display: flex;
+    justify-content: center;
+    object-fit: contain;
+    
+    }
+    .image{
+        height: 300px;
+        display: flex;
+        justify-content: center;
+        object-fit: contain;
+        
+        }
+}
+
+@media screen and (max-width:425px){
+
+  .Resources{
+    padding-right: 150px;
+    /* background-color: #1DB954; */
+  }
+}
+@media screen and (max-width:320px){
+  
+    
+      }

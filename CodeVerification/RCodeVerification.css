@@ -1,0 +1,46 @@
+@media screen and (max-width:768px) {
+    .left{
+        /* width: 100%; */
+        display: none;
+        
+    }
+    .Right{
+        width: 100%;
+       
+    background-color:#F4F9FF;
+        height: 140vh;
+    }
+    .holder2{
+   
+       width: 100%;
+       }
+       .ForTwo{
+       display: flex;
+       flex-direction: column;
+    }
+    .forgot{
+        margin-left: 10px;
+    }
+    .contain{
+        width: 100%;
+  margin: auto;
+    }
+    
+    .InControl{
+        height: 50px;
+        width: 100%;
+       /* width: 400px; */
+        margin: 4px;
+    }
+
+}
+
+/* @media screen and (max-width:375px){
+    .InControl{
+        height: 50px;
+        width: 120%;
+       width: 00px;
+        margin: 4px;
+        background-color: red;
+    }
+} */

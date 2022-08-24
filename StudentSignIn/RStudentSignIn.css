@@ -1,0 +1,27 @@
+@media screen and (max-width:768px) {
+    .left{
+        /* width: 100%; */
+        display: none;
+        
+    }
+    .Right{
+        width: 100%;
+        background-color:#1E2A3B;
+        height: 160vh;
+    }
+    .holder2{
+  
+       width: 100%;
+       }
+       .ForTwo{
+       display: flex;
+       flex-direction: column;
+    }
+    .forgot{
+        margin-left: 10px;
+    }
+    .contain{
+        width: 100%;
+       margin: auto;
+    }
+}

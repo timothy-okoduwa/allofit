@@ -1,0 +1,357 @@
+
+body{
+    font-family: 'Noto Serif', serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+.buttonn{
+  outline:none ;
+  border: none;
+  height: 40px;
+  padding: 8px;
+  background-color: #1DB954;
+  color: white;
+  border-radius: 5px;
+    width: 180px;
+     text-align: center;
+     display: flex;
+     justify-content: center;
+ 
+}
+.CR{
+   
+    width: 25%;
+}
+.Sign{
+
+    width: 55px;
+    margin-left: 20px;
+}
+.Sign2{
+  
+    width: 120px;
+    padding-left: 20px;}
+
+
+
+
+    .Grow{
+        font-family: 'Fira Sans';
+
+font-weight: 600;
+font-size: 54px;
+line-height: 77px;
+text-align: center;
+    }
+    .Writeup{
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 170%;
+
+        
+        text-align: center;
+
+    }
+    .Courses{
+font-family: 'Poppins';
+
+font-weight: 400;
+font-size: 20px;
+line-height: 170%;
+text-align: center;
+    }
+
+    .All{
+font-family: 'Fira Sans';
+
+font-weight: 600;
+font-size: 38px;
+line-height: 58px;
+text-align: center;
+    }
+.same{
+font-family: 'Poppins';
+font-weight: 400;
+font-size: 16px;
+}
+.Icon{
+    background-color: red;
+    text-align: center;
+}
+
+
+
+
+
+.iconn{
+    background-color: rgb(255, 255, 255);
+  margin-left: -69px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 30px;
+    align-self: center;
+    width: 66px;
+    border-radius: 50%;
+    cursor: pointer;
+
+}
+.Instyle{
+    width: 500px;
+    border-radius: 40px;
+    height: 49px;
+    padding: 10px;
+    background: #FFFFFF;
+outline: 1px solid rgba(164, 175, 203, 0.5);
+border: 1px solid rgba(164, 175, 203, 0.5);
+}
+.Bold{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 27px;
+}
+
+/* .main{
+   
+} */
+.sub{
+    display: flex;
+    justify-content: center;
+    /* background-color: aqua; */
+
+}
+.now{
+display: flex;
+justify-content: space-around;
+width: 70%;flex-wrap: wrap;
+
+}
+.search{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    display: flex;
+    text-align: center;
+ 
+}
+.DRop{
+    display: flex;
+    justify-content: flex-start;
+    padding-top: 35px;
+}
+.downimage{
+    height: 100%;
+    width: 100%;
+   
+    display: flex;
+
+}
+.downimage2{
+    height: 30px;
+    width: 30px;
+    border-radius: 15px;
+  
+ 
+}
+.name{
+    font-family: 'Poppins';
+margin: 6px;
+font-weight: 400;
+font-size: 12px;
+
+}
+.cash{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+font-size: 16px;
+line-height: 160%;
+color: #1DB954;
+text-align: center;
+width: 100%;
+}
+
+    .two{
+        font-family: 'poppins';
+    
+    font-weight: 400;
+    font-size: 14px;
+    
+    color: #828282;
+    
+    }
+
+
+
+/* .full{
+   
+
+} */
+.Scond{
+display: flex;
+padding: 0 80px 0 80px;
+justify-content: space-between;
+flex-wrap: wrap;
+}
+
+
+
+.teach{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 160%;
+}
+.sign{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+}
+.Form{
+    Width: 416px;
+    Height:
+    auto;
+display: flex;
+align-items: center;
+flex-wrap: wrap;
+justify-content: center;
+border-radius: 5px;
+background-color: #ffffff;
+padding: 5px;
+
+}
+.Form input{
+border: none;
+outline: none;
+width: 247px;
+height: 40px;
+font-family: 'poppins';
+font-weight: 400;
+font-size: 14px;
+margin: 5px;
+}
+.Form button{
+color: white;
+outline: none;
+border: none;
+height: 40px;
+width: 120px;
+/* margin: 5px; */
+background: #1D2A3B;
+border-radius: 5px;
+
+
+}
+.ecllipse{
+    display: flex;
+    flex-direction: column;
+ 
+ 
+}
+.Mage1{
+    margin: 10px;
+    height: 120px;
+  
+}
+
+.Mage4{
+    margin: 10px;
+    height: 120px;
+ 
+}
+
+.Resources{
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 23px;
+    text-align: center;
+    cursor: pointer;
+        }
+        .Resources2{
+     font-family: 'Fira Sans';
+    font-weight: 400;
+    font-size: 24px;
+    
+        }
+        .Subs{
+            font-family: 'Poppins';
+    cursor: pointer;
+    font-size: px;
+    text-align: center;
+        }
+        .Terms{
+    font-family: 'Poppins';
+    font-weight: 400;
+    display: flex;
+    justify-content: space-around;
+    width: 300px;
+    cursor: pointer;
+        }
+        .Termss {
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 15px;
+    
+    cursor: pointer;
+        }
+        .Termss span{
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 14px;
+    width: 220px;
+    color: #1DB954;
+    cursor: pointer;
+        }
+
+ .Roller{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    width: 70%;
+    margin-left: 10%;
+
+ }  
+
+
+
+ .brother{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+ }
+ .all{
+    display: flex;
+flex-direction: column;
+margin-bottom: 20px;
+
+}
+ .all span{
+    display: flex;
+flex-direction: column;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+
+
+
+}
+
+.Download{
+    font-family: 'Fira Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 28px;
+line-height: 38px;
+
+
+}

@@ -1,0 +1,150 @@
+@media screen and (max-width:768px){
+    .LIne{
+        display: none; 
+       }
+    .image{
+        object-fit: cover;
+      
+        height: 240px;
+        }
+        .Relen{
+            display: flex;
+            justify-content: center;
+    
+        }
+        .left{
+            display: flex;
+            flex-direction: column;
+            align-items: flex-start;
+            justify-content: flex-start;
+            padding-left: 10px;
+            }
+           
+
+        .Primary{
+       
+             width: 150px;
+             background: #1D2A3B;
+             outline: none;
+             border: none;
+             border-radius: 5px;
+             color: white;
+     
+         }
+   
+         .image2{
+            height: 250px;
+            display: flex;
+            justify-content: center;
+            object-fit: contain;
+            
+            }
+            .image{
+                height: 300px;
+                display: flex;
+                justify-content: center;
+                object-fit: contain;
+                
+                }
+}
+
+@media screen and (max-width:425px){
+    .only{
+        padding-bottom: 45px;
+    }
+    .Primary{
+       
+        width: auto;
+        background: #1D2A3B;
+        outline: none;
+        border: none;
+        border-radius: 5px;
+        color: white;
+
+    }
+  .Resources{
+    padding-right: 150px;
+    /* background-color: #1DB954; */
+  }
+}
+@media screen and (max-width:320px){
+    .Form input{
+        border: none;
+        outline: none;
+        width: 200px;
+        height: 40px;
+        font-family: 'poppins';
+        font-weight: 400;
+        font-size: 14px;
+        margin: 5px;
+      
+        }
+   
+    .Primary{
+       
+        width: auto;
+        background: #1D2A3B;
+        outline: none;
+        border: none;
+        border-radius: 5px;
+        color: white;
+
+    }
+   
+}
+
+
+@media screen and (max-width:991px){
+    .buttonn{
+        outline:none ;
+        border: none;
+        height: 40px;
+        padding: 8px;
+        background-color: #1DB954;   
+        color: white;
+        border-radius: 5px;
+          width: 250px;
+           text-align: center;
+           display: flex;
+           justify-content: center;
+          margin-right: 60px;
+      }
+      .CR{
+        /* background-color: rgb(42, 10, 10); */
+      width: 100%;
+    }
+
+    .Sign{
+
+        width: 160px;
+        /* margin-left: 20px; */
+      
+    }
+    .Sign2{
+      
+        width: 160px;
+        padding-right:60px;
+    }
+}
+@media screen and (max-width:375px){
+    .Sign2{
+        /* background-color: aqua; */
+      width: 290px;
+      margin-right:900px;
+  }
+       .buttonn{
+          outline:none ;
+          border: none;
+          height: 40px;
+          padding: 8px;
+          background-color: #1DB954;   
+          color: white;
+          border-radius: 5px;
+            width: 150px;
+             text-align: center;
+             display: flex;
+             justify-content: center;
+            margin-left: 90px;
+        }
+     
+  }
